@@ -1,3 +1,26 @@
+## lgsvl_msgs (kinetic) - 0.0.3-1
+
+The packages in the `lgsvl_msgs` repository were released into the `kinetic` distro by running `/usr/bin/bloom-release --rosdistro kinetic --track kinetic lgsvl_msgs` on `Mon, 01 Jun 2020 18:25:17 -0000`
+
+The `lgsvl_msgs` package was released.
+
+Version of package(s) in repository `lgsvl_msgs`:
+
+- upstream repository: https://github.com/lgsvl/lgsvl_msgs.git
+- release repository: https://github.com/lgsvl/lgsvl_msgs-release.git
+- rosdistro version: `0.0.2-1`
+- old version: `0.0.2-1`
+- new version: `0.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## lgsvl_msgs (melodic) - 0.0.3-1
 
 The packages in the `lgsvl_msgs` repository were released into the `melodic` distro by running `/usr/bin/bloom-release --rosdistro melodic --track melodic lgsvl_msgs` on `Mon, 01 Jun 2020 18:16:14 -0000`
