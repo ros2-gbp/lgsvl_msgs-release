@@ -1,0 +1,12 @@
+Source: ros-kinetic-lgsvl-msgs
+Section: misc
+Priority: optional
+Maintainer: David Uhm <david.uhm@lge.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-geometry-msgs, ros-kinetic-message-generation, ros-kinetic-ros-environment, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-lgsvl-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-geometry-msgs, ros-kinetic-message-runtime, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs
+Description: The lgsvl_msgs package for ground truth data.
