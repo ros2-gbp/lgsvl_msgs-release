@@ -1,0 +1,12 @@
+Source: ros-noetic-lgsvl-msgs
+Section: misc
+Priority: optional
+Maintainer: David Uhm <david.uhm@lge.com>
+Build-Depends: debhelper (>= 9.0.0), ros-noetic-geometry-msgs, ros-noetic-message-generation, ros-noetic-ros-environment, ros-noetic-sensor-msgs, ros-noetic-std-msgs
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-noetic-lgsvl-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-noetic-geometry-msgs, ros-noetic-message-runtime, ros-noetic-sensor-msgs, ros-noetic-std-msgs
+Description: The lgsvl_msgs package for ground truth data.
