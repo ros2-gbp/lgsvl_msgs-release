@@ -1,3 +1,26 @@
+## lgsvl_msgs (foxy) - 0.0.3-1
+
+The packages in the `lgsvl_msgs` repository were released into the `foxy` distro by running `/usr/bin/bloom-release lgsvl_msgs --track foxy --rosdistro foxy --new-track` on `Mon, 01 Jun 2020 19:42:08 -0000`
+
+The `lgsvl_msgs` package was released.
+
+Version of package(s) in repository `lgsvl_msgs`:
+
+- upstream repository: https://github.com/lgsvl/lgsvl_msgs.git
+- release repository: unknown
+- rosdistro version: `null`
+- old version: `null`
+- new version: `0.0.3-1`
+
+Versions of tools used:
+
+- bloom version: `0.9.7`
+- catkin_pkg version: `0.4.20`
+- rosdep version: `0.19.0`
+- rosdistro version: `0.8.2`
+- vcstools version: `0.1.42`
+
+
 ## lgsvl_msgs (eloquent) - 0.0.3-1
 
 The packages in the `lgsvl_msgs` repository were released into the `eloquent` distro by running `/usr/bin/bloom-release lgsvl_msgs --track eloquent --rosdistro eloquent --new-track` on `Mon, 01 Jun 2020 19:38:11 -0000`
