@@ -16,8 +16,10 @@ set(MSG_FILES
   "Detection3DArray.msg"
   "Signal.msg"
   "SignalArray.msg"
+  "Ultrasonic.msg"
   "VehicleControlData.msg"
   "VehicleStateData.msg"
+  "VehicleOdometry.msg"
 )
 
 if(${ROS_VERSION} EQUAL 1)
