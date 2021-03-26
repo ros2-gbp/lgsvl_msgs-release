@@ -1,3 +1,26 @@
+## lgsvl_msgs (rolling) - 0.0.4-1
+
+The packages in the `lgsvl_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --rosdistro rolling lgsvl_msgs` on `Fri, 26 Mar 2021 12:50:32 -0000`
+
+The `lgsvl_msgs` package was released.
+
+Version of package(s) in repository `lgsvl_msgs`:
+
+- upstream repository: https://github.com/lgsvl/lgsvl_msgs.git
+- release repository: https://github.com/ros2-gbp/lgsvl_msgs-release.git
+- rosdistro version: `0.0.3-2`
+- old version: `0.0.3-2`
+- new version: `0.0.4-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.3`
+- catkin_pkg version: `0.4.23`
+- rosdep version: `0.20.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## lgsvl_msgs (dashing) - 0.0.3-1
 
 The packages in the `lgsvl_msgs` repository were released into the `dashing` distro by running `/usr/bin/bloom-release lgsvl_msgs --track dashing --rosdistro dashing --new-track` on `Mon, 01 Jun 2020 23:28:06 -0000`
