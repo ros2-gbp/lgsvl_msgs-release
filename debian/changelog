@@ -1,0 +1,45 @@
+ros-iron-lgsvl-msgs (0.0.4-4bullseye) bullseye; urgency=high
+
+  * Add VehicleOdometry.msg to README
+  * Adding VehicleOdometry.
+  * Update README and LICENSE
+  * Update package description and maintainers
+  * Add ultrasonic message.
+  * Contributors: Guodong Rong, Hadi Tabatabaee, Piotr Jaroszek
+
+ -- Hadi Tabatabaee <hadi.tabatabaee@lge.com>  Tue, 20 Oct 2020 16:00:00 -0000
+
+ros-iron-lgsvl-msgs (0.0.3-4bullseye) bullseye; urgency=high
+
+  * Update readme and license
+  * Changing some Vector3's to Points where they make more sense.
+  * Renaming CanBus to CanBusData.
+  * Adding VehicleStateData.
+  * Adding VehicleControlData.
+  * Adding CanBus and DetectedRadarObject/Array.
+  * Making package hybrid ROS1/ROS2 package.
+  * Contributors: Hadi Tabatabaee, Joshua Whitley
+
+ -- Hadi Tabatabaee <hadi.tabatabaee@lge.com>  Thu, 28 May 2020 16:00:00 -0000
+
+ros-iron-lgsvl-msgs (0.0.2-4bullseye) bullseye; urgency=high
+
+  * Include signal messages in README
+  * add messages for ground truth signals
+  * updated license
+  * Contributors: David Uhm
+
+ -- Hadi Tabatabaee <hadi.tabatabaee@lge.com>  Tue, 03 Mar 2020 16:00:00 -0000
+
+ros-iron-lgsvl-msgs (0.0.1-4bullseye) bullseye; urgency=high
+
+  * add changelog
+  * update initial version number
+  * add license
+  * add Ros package for ground truth messages
+  * initial commit
+  * Contributors: David Uhm
+
+ -- Hadi Tabatabaee <hadi.tabatabaee@lge.com>  Mon, 17 Dec 2018 16:00:00 -0000
+
+
